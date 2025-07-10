@@ -40,10 +40,10 @@ An **online Grievance Management System** for private or public institutions, en
 
 ## 📸 Screenshots
 
-![dashboard](images/Picture1.png)<br />
-![student](images/Picture2.png)<br />
-![teacher](images/Picture4.png)<br />
-![admin](images/Picture6.png)<br />
+![dashboard](assets/images/Picture1.png)<br />
+![student](assets/images/Picture2.png)<br />
+![teacher](assets/images/Picture4.png)<br />
+![admin](assets/images/Picture6.png)<br />
 
 ---
 
